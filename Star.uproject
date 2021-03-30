@@ -2,31 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Star",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "DatasmithImporter",
-			"Enabled": true
-		},
-		{
-			"Name": "OWIEnhancedVehicleMovement",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/22f5211ad3744d948352de8b52e6fc8a"
-		},
-		{
-			"Name": "PsRealVehiclePlugin",
-			"Enabled": true
-		}
-	],
-	"TargetPlatforms": [
-		"Android",
-		"WindowsNoEditor"
-	]
+	"Description": ""
 }
